@@ -9,26 +9,26 @@ class Gitdocket < Formula
     depends_on macos: :sequoia
 
     on_arm do
-      url "https://github.com/GitDocket/gitdocket/releases/download/v0.4.1/gitdocket-0.4.1-darwin-arm64.tar.gz"
-      sha256 "82981ba9803506f4cdaedfcea85b7097582f3cd8e5496667bec2f31e71773fdf"
+      url "https://github.com/GitDocket/gitdocket/releases/download/v0.5.0/gitdocket-0.5.0-darwin-arm64.tar.gz"
+      sha256 "51641bb9828a6f39bdb748534d1f5eecd49172196916ee4bedde648aab3c63b2"
       depends_on arch: :arm64
     end
     on_intel do
-      url "https://github.com/GitDocket/gitdocket/releases/download/v0.4.1/gitdocket-0.4.1-darwin-x64.tar.gz"
-      sha256 "285bda3c2cd80c8ba7d31b212d5c5eff378cc9250a09eb2d9c26e02c12d69731"
+      url "https://github.com/GitDocket/gitdocket/releases/download/v0.5.0/gitdocket-0.5.0-darwin-x64.tar.gz"
+      sha256 "61c10b0ede137e1b28761c05a7ed5b917c685bccf41ca2b4a5fca9392732a12e"
       depends_on arch: :x86_64
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/GitDocket/gitdocket/releases/download/v0.4.1/gitdocket-0.4.1-linux-arm64.tar.gz"
-      sha256 "bd2a4d102ba4533994c522ff742c81c173c44a5fb5179e0e45ea17dc2b1ab803"
+      url "https://github.com/GitDocket/gitdocket/releases/download/v0.5.0/gitdocket-0.5.0-linux-arm64.tar.gz"
+      sha256 "62646ea0fab647f45073b1e8d5ea096fbe8f6d84d3c91e27bc187a4e40e7f727"
       depends_on arch: :arm64
     end
     on_intel do
-      url "https://github.com/GitDocket/gitdocket/releases/download/v0.4.1/gitdocket-0.4.1-linux-x64.tar.gz"
-      sha256 "4377aecdb0e60ee4fe9cf3cbc8e251b2b03e51b1a33b78bd8fc451da325ea2e6"
+      url "https://github.com/GitDocket/gitdocket/releases/download/v0.5.0/gitdocket-0.5.0-linux-x64.tar.gz"
+      sha256 "276ec6e9b053abdb76f1882f1e74670ab3cfa26d96248f6eff3fb710e0b36504"
       depends_on arch: :x86_64
     end
   end
