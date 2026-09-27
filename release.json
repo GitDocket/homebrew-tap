@@ -1,61 +1,61 @@
 {
   "schema": 1,
-  "version": "0.6.0",
+  "version": "0.6.1",
   "source": {
     "kind": "public-export",
-    "commit": "0e0e5df05ade638ff43cbfa6cf3992505b9513d1",
-    "exportSha256": "183d1398a8dd6e214b03ed8fa435aa697e825390c8e6e0815f6a7b74464ab19f"
+    "commit": "f0d12f8abfa1a7382405979c6c5a72db4fa6d231",
+    "exportSha256": "48cbcdcb8e984ff12ea3221650cd3133f85540a578802049a8950ccf1489512b"
   },
-  "formulaSha256": "22a704fb6c971dc82f70a4ed89323b848cc8858d71807cd1062710fa1586173d",
-  "publicVerificationWorkflowSha256": "83fb9250f9ca6d22fa364a32d215e342077db75c2f23889ee6d79641ce209580",
+  "formulaSha256": "052d41f723ba83268705545d7f85617da15b74c2744586a4485a0a68852cb1f4",
+  "publicVerificationWorkflowSha256": "1c98576cd8c8521292b459fb15eed3424971d73e32eed6729c576276f9da721e",
   "assets": [
     {
-      "path": "release/standalone/gitdocket-0.6.0-darwin-arm64.tar.gz",
-      "sha256": "31f72bc73f33b13091006227df81bb146225e313798a077929c86961d2ac24bc"
+      "path": "release/standalone/gitdocket-0.6.1-darwin-arm64.tar.gz",
+      "sha256": "1c50d27339d2b5428d18d1765dcdda7321b0911b790ce093296f918cf5e35b3c"
     },
     {
       "path": "release/standalone/darwin-arm64.json",
-      "sha256": "a5d091a454e31c0df89999e0d3b7c1b55b97809a58a33a656393212bd450ffae"
+      "sha256": "a4430d182345231fa384505f5deb889f11ee569b0849866f5148e36d1fbabaf1"
     },
     {
-      "path": "release/standalone/gitdocket-0.6.0-darwin-arm64.tar.gz.sha256",
-      "sha256": "a28cc73ebd8290fc2ae4630b7665517db83430d9079aceed33d8b63924bed204"
+      "path": "release/standalone/gitdocket-0.6.1-darwin-arm64.tar.gz.sha256",
+      "sha256": "6cb055a6d113e5e2fbb784932ff7b3994262a2930e6b2dd7716a7a81621c2ba2"
     },
     {
-      "path": "release/standalone/gitdocket-0.6.0-darwin-x64.tar.gz",
-      "sha256": "508740237fc93d4b5e72de312f258d47a168aa23e7ce56c0848e864d42c7a833"
+      "path": "release/standalone/gitdocket-0.6.1-darwin-x64.tar.gz",
+      "sha256": "2b263151229c780ede2bfc9989bb9be4287943a723e9315fab730b4c15bcd5bb"
     },
     {
       "path": "release/standalone/darwin-x64.json",
-      "sha256": "6d6f34c1c7a169ecb8195c9f0838168269999aa3c82385fd723579e90ea77531"
+      "sha256": "73b7c27ceb74ab2f0667935ef12807220bfe52867febf198d24e7d1f14b4b1e6"
     },
     {
-      "path": "release/standalone/gitdocket-0.6.0-darwin-x64.tar.gz.sha256",
-      "sha256": "3e2f4f51a0249609c85df1ad401ef70f1899241b5d7f889db5f13204b1ec7bfb"
+      "path": "release/standalone/gitdocket-0.6.1-darwin-x64.tar.gz.sha256",
+      "sha256": "5a84bbd6588fbb004571f0a98f47c47b8bd76fa79a2a4783338ee1f38ddf76af"
     },
     {
-      "path": "release/standalone/gitdocket-0.6.0-linux-arm64.tar.gz",
-      "sha256": "fbd804f2d223f6e3b8f40ed0d04984461886ec500ea46ca0334f601d5a70e978"
+      "path": "release/standalone/gitdocket-0.6.1-linux-arm64.tar.gz",
+      "sha256": "7ed75d0b2246b38feee8dc5e610c15ea13f4d0231542ad7e73f8524092fb322b"
     },
     {
       "path": "release/standalone/linux-arm64.json",
-      "sha256": "1c9cb733b942f962a89c23411ab252e10c54f83511fa278b86436ae3e2692756"
+      "sha256": "d235d38a380e35f2dc24addc1269f0b556f4456e404d84f5be9830b976791b29"
     },
     {
-      "path": "release/standalone/gitdocket-0.6.0-linux-arm64.tar.gz.sha256",
-      "sha256": "27e8035e779661d513de73104563b1e1e8cb898a94c9f20433a4aadead4f0337"
+      "path": "release/standalone/gitdocket-0.6.1-linux-arm64.tar.gz.sha256",
+      "sha256": "72b1bcad966c19f30f5031f5061575c00db510c6eff517b243161b8a4e04c9b4"
     },
     {
-      "path": "release/standalone/gitdocket-0.6.0-linux-x64.tar.gz",
-      "sha256": "111c2532cc8fb9f06c8a481ea7106125169693a714e652ea2483f4909fb1346f"
+      "path": "release/standalone/gitdocket-0.6.1-linux-x64.tar.gz",
+      "sha256": "3bfad61911315d33f825d39747c159d251eb050d85d40ce5b29e2c8e392bdd3d"
     },
     {
       "path": "release/standalone/linux-x64.json",
-      "sha256": "ed1f57c82784729e8885ecf22555c039d7afef92959886683f6f32dfe9f81e4a"
+      "sha256": "2685c6179fe908505665ec57cd43f05568fb605cd2f79211af8d6c007ee57dcf"
     },
     {
-      "path": "release/standalone/gitdocket-0.6.0-linux-x64.tar.gz.sha256",
-      "sha256": "1ab4911482f9858d1d853c780b63b2795be9193bb360ab541a7c5481dc001291"
+      "path": "release/standalone/gitdocket-0.6.1-linux-x64.tar.gz.sha256",
+      "sha256": "34352e0ed32ce2c4d57054eafb2198138999ce42d82cd25aaf5c7692e0ac4d47"
     }
   ],
   "publication": "Prepared locally; publish only after the exact GitHub release and all assets are verified."

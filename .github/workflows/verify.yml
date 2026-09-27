@@ -28,7 +28,7 @@ jobs:
       - uses: actions/checkout@v6
         with:
           repository: GitDocket/gitdocket
-          ref: v0.6.0
+          ref: v0.6.1
           path: qualification
       - uses: oven-sh/setup-bun@v2
         with:
@@ -44,7 +44,7 @@ jobs:
         run: bun scripts/public-install-smoke.ts --output "$RUNNER_TEMP/public-install-${{ matrix.target }}.json"
       - uses: actions/upload-artifact@v4
         with:
-          name: public-install-v0.6.0-${{ matrix.target }}
+          name: public-install-v0.6.1-${{ matrix.target }}
           path: ${{ runner.temp }}/public-install-*.json
           if-no-files-found: error
           retention-days: 90
