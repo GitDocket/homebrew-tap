@@ -1,62 +1,268 @@
 {
   "schema": 1,
-  "version": "0.6.1",
+  "version": "0.6.3",
   "source": {
     "kind": "public-export",
-    "commit": "f0d12f8abfa1a7382405979c6c5a72db4fa6d231",
-    "exportSha256": "48cbcdcb8e984ff12ea3221650cd3133f85540a578802049a8950ccf1489512b"
+    "commit": "bd7bf94a7f9245ccf1bf10d5ca29c2d3d1ee5828",
+    "exportSha256": "88eea88283cb21d7e8c5be662b9a463ff6068b90ce68767d9501a900514e2367"
   },
-  "formulaSha256": "052d41f723ba83268705545d7f85617da15b74c2744586a4485a0a68852cb1f4",
-  "publicVerificationWorkflowSha256": "1c98576cd8c8521292b459fb15eed3424971d73e32eed6729c576276f9da721e",
+  "formulaSha256": "13b913b56d94bc3899c835e14f9f07920d43a0d414bf8a7cb07aa759398da1a3",
+  "publicVerificationWorkflowSha256": "8f397d8c7610abe33fd19239d0306ead41aca34b8c90d8e1560d6d8870dcd7bd",
   "assets": [
     {
-      "path": "release/standalone/gitdocket-0.6.1-darwin-arm64.tar.gz",
-      "sha256": "1c50d27339d2b5428d18d1765dcdda7321b0911b790ce093296f918cf5e35b3c"
+      "path": "release/standalone/gitdocket-0.6.3-darwin-arm64.tar.gz",
+      "sha256": "e32546297230ca3e376fb875a7ffcfc300637559f3a7740ca734c63f0f7e091f"
     },
     {
       "path": "release/standalone/darwin-arm64.json",
-      "sha256": "a4430d182345231fa384505f5deb889f11ee569b0849866f5148e36d1fbabaf1"
+      "sha256": "675f63c72521b027463618f6298f1db2993a050e8f89f25ffad6e3176379c499"
     },
     {
-      "path": "release/standalone/gitdocket-0.6.1-darwin-arm64.tar.gz.sha256",
-      "sha256": "6cb055a6d113e5e2fbb784932ff7b3994262a2930e6b2dd7716a7a81621c2ba2"
+      "path": "release/standalone/gitdocket-0.6.3-darwin-arm64.tar.gz.sha256",
+      "sha256": "e8c051a2a4f69cfa0f73f0c4d0226631a7e38da53bcc03e5b5d38e1fa468bf3c"
     },
     {
-      "path": "release/standalone/gitdocket-0.6.1-darwin-x64.tar.gz",
-      "sha256": "2b263151229c780ede2bfc9989bb9be4287943a723e9315fab730b4c15bcd5bb"
+      "path": "release/standalone/gitdocket-0.6.3-darwin-x64.tar.gz",
+      "sha256": "19d4eb6837f44e3070f8f3049f804c0162fbc296c9c5dfc7c7a4c8d0f5acdf06"
     },
     {
       "path": "release/standalone/darwin-x64.json",
-      "sha256": "73b7c27ceb74ab2f0667935ef12807220bfe52867febf198d24e7d1f14b4b1e6"
+      "sha256": "7b6e8ef59ecf5a3c4efc3f955befc722bfde37e687dabb71f71ffd0fd9317fef"
     },
     {
-      "path": "release/standalone/gitdocket-0.6.1-darwin-x64.tar.gz.sha256",
-      "sha256": "5a84bbd6588fbb004571f0a98f47c47b8bd76fa79a2a4783338ee1f38ddf76af"
+      "path": "release/standalone/gitdocket-0.6.3-darwin-x64.tar.gz.sha256",
+      "sha256": "d14b7cc329fcc6c2212a53978157789bf19ddfd3f9aaa51ad8159c0071ecd82a"
     },
     {
-      "path": "release/standalone/gitdocket-0.6.1-linux-arm64.tar.gz",
-      "sha256": "7ed75d0b2246b38feee8dc5e610c15ea13f4d0231542ad7e73f8524092fb322b"
+      "path": "release/standalone/gitdocket-0.6.3-linux-arm64.tar.gz",
+      "sha256": "dfa74912a711e019c7fe279eb8d1318fb0188d9526c94c12d6e9d940d564d301"
     },
     {
       "path": "release/standalone/linux-arm64.json",
-      "sha256": "d235d38a380e35f2dc24addc1269f0b556f4456e404d84f5be9830b976791b29"
+      "sha256": "468d9a85e55cd40447ccd35c27833b55487d9b9069abeec0fa804f2d463d2292"
     },
     {
-      "path": "release/standalone/gitdocket-0.6.1-linux-arm64.tar.gz.sha256",
-      "sha256": "72b1bcad966c19f30f5031f5061575c00db510c6eff517b243161b8a4e04c9b4"
+      "path": "release/standalone/gitdocket-0.6.3-linux-arm64.tar.gz.sha256",
+      "sha256": "88af5ea8cae9472fb2ed8bc163da464bcd85a39cf7de025c0344d1c24638e44d"
     },
     {
-      "path": "release/standalone/gitdocket-0.6.1-linux-x64.tar.gz",
-      "sha256": "3bfad61911315d33f825d39747c159d251eb050d85d40ce5b29e2c8e392bdd3d"
+      "path": "release/standalone/gitdocket-0.6.3-linux-x64.tar.gz",
+      "sha256": "2872f378dac1f75ecb0c93cc3bc0a293f3d354a5eee3f5ebaebdbd8189bfc66e"
     },
     {
       "path": "release/standalone/linux-x64.json",
-      "sha256": "2685c6179fe908505665ec57cd43f05568fb605cd2f79211af8d6c007ee57dcf"
+      "sha256": "6955f46328256ddc8d3f4d83fccfde66826b6d94b2dbe7e24ed634b30c877b23"
     },
     {
-      "path": "release/standalone/gitdocket-0.6.1-linux-x64.tar.gz.sha256",
-      "sha256": "34352e0ed32ce2c4d57054eafb2198138999ce42d82cd25aaf5c7692e0ac4d47"
+      "path": "release/standalone/gitdocket-0.6.3-linux-x64.tar.gz.sha256",
+      "sha256": "5af71a9819950f3537babcf62aeffffa1350b62b7095f1ae03e8d9b32916492c"
     }
   ],
-  "publication": "Prepared locally; publish only after the exact GitHub release and all assets are verified."
+  "publication": "Prepared from verified public v0.6.3 assets. Published archive bytes and release receipts are unchanged. New native checks are supplemental; Homebrew installation, lifecycle and public-installation tests were skipped at the owner's request.",
+  "publishedReleaseCommit": "1c379c0957e4ffc6bd0f07b27eed46d2e7c28b2b",
+  "nativeQualification": {
+    "darwin-arm64": {
+      "schema": 1,
+      "status": "READY",
+      "version": "0.6.3",
+      "target": "darwin-arm64",
+      "bunVersion": "1.4.2",
+      "source": {
+        "kind": "public-export",
+        "commit": "bd7bf94a7f9245ccf1bf10d5ca29c2d3d1ee5828",
+        "exportSha256": "88eea88283cb21d7e8c5be662b9a463ff6068b90ce68767d9501a900514e2367"
+      },
+      "archive": "gitdocket-0.6.3-darwin-arm64.tar.gz",
+      "sha256": "e32546297230ca3e376fb875a7ffcfc300637559f3a7740ca734c63f0f7e091f",
+      "files": {
+        "BUILD.json": "3865dfb725d68d0fc3ad6d4083aa1ae920d31fbb44b35d83587b2279add10746",
+        "LICENSE": "f566cfc74461676075d1ee32904576bf15a76f280ceb78f9c5987b6a19db576d",
+        "THIRD_PARTY_NOTICES.txt": "8433b7120d627c98c6a3c5939157a21f032c6f83246e99a14e685568550b5198",
+        "docket": "79aa7c8daa9124fd3cd05b2e5bcf5828cbabe5add83d271a33b807b56b7e7565",
+        "docket-mcp": "5feca534a73ab34ec1bc305efad4a0435245aebfb6ce8035af8d147b43266e96"
+      },
+      "buildHost": "darwin/arm64",
+      "crossCompiled": false,
+      "smoke": {
+        "level": "deep",
+        "version": "0.6.3",
+        "platform": "darwin",
+        "arch": "arm64",
+        "runtimePath": "Git and standalone executables only",
+        "checks": [
+          "CLI/MCP versions",
+          "dual-agent initialization",
+          "task create/ready/index",
+          "embedded browser assets",
+          "MCP ready tool",
+          "source-only watch diagnostic",
+          "historical/customized/stale upgrades"
+        ]
+      },
+      "qualification": "Exact published archives qualified after publication for tap preparation",
+      "qualificationHost": {
+        "platform": "darwin",
+        "arch": "arm64",
+        "osRelease": "27.0.0",
+        "osVersion": "27.0",
+        "hardwareArch": "arm64",
+        "execution": "native"
+      },
+      "qualifiedAt": "2026-10-02T00:23:16.656Z",
+      "publishedReceiptSha256": "675f63c72521b027463618f6298f1db2993a050e8f89f25ffad6e3176379c499",
+      "qualificationHarnessSha256": "a3b79c0bb0fc6b3c82e86ac71ef66506cc1606320e9e1afe02ef4be0b6effe1e"
+    },
+    "darwin-x64": {
+      "schema": 1,
+      "status": "READY",
+      "version": "0.6.3",
+      "target": "darwin-x64",
+      "bunVersion": "1.4.2",
+      "source": {
+        "kind": "public-export",
+        "commit": "bd7bf94a7f9245ccf1bf10d5ca29c2d3d1ee5828",
+        "exportSha256": "88eea88283cb21d7e8c5be662b9a463ff6068b90ce68767d9501a900514e2367"
+      },
+      "archive": "gitdocket-0.6.3-darwin-x64.tar.gz",
+      "sha256": "19d4eb6837f44e3070f8f3049f804c0162fbc296c9c5dfc7c7a4c8d0f5acdf06",
+      "files": {
+        "BUILD.json": "8ec58952cb9eb1237dd5a0172a2cd77e553650612caf2186b925ffe6f66973d8",
+        "LICENSE": "f566cfc74461676075d1ee32904576bf15a76f280ceb78f9c5987b6a19db576d",
+        "THIRD_PARTY_NOTICES.txt": "8433b7120d627c98c6a3c5939157a21f032c6f83246e99a14e685568550b5198",
+        "docket": "63aeda11bd0ab700fa771cb28979f80d4f9e0ac1c02b77ad26a61868c9e3a7c5",
+        "docket-mcp": "bdae02222f89d8b02c765ef4ef0462a093dfdebce3927e0abca658fdd9bc59ef"
+      },
+      "buildHost": "darwin/arm64",
+      "crossCompiled": true,
+      "smoke": {
+        "level": "basic",
+        "version": "0.6.3",
+        "platform": "darwin",
+        "arch": "x64",
+        "runtimePath": "Git and standalone executables only",
+        "checks": [
+          "CLI/MCP versions",
+          "dual-agent initialization",
+          "task create/ready/index",
+          "embedded browser assets",
+          "MCP ready tool"
+        ]
+      },
+      "qualification": "Exact published archives qualified after publication for tap preparation",
+      "qualificationHost": {
+        "platform": "darwin",
+        "arch": "x64",
+        "osRelease": "27.0.0",
+        "osVersion": "27.0",
+        "hardwareArch": "arm64",
+        "execution": "rosetta"
+      },
+      "qualifiedAt": "2026-10-02T00:23:20.286Z",
+      "publishedReceiptSha256": "7b6e8ef59ecf5a3c4efc3f955befc722bfde37e687dabb71f71ffd0fd9317fef",
+      "qualificationHarnessSha256": "a3b79c0bb0fc6b3c82e86ac71ef66506cc1606320e9e1afe02ef4be0b6effe1e"
+    },
+    "linux-arm64": {
+      "schema": 1,
+      "status": "READY",
+      "version": "0.6.3",
+      "target": "linux-arm64",
+      "bunVersion": "1.4.2",
+      "source": {
+        "kind": "public-export",
+        "commit": "bd7bf94a7f9245ccf1bf10d5ca29c2d3d1ee5828",
+        "exportSha256": "88eea88283cb21d7e8c5be662b9a463ff6068b90ce68767d9501a900514e2367"
+      },
+      "archive": "gitdocket-0.6.3-linux-arm64.tar.gz",
+      "sha256": "dfa74912a711e019c7fe279eb8d1318fb0188d9526c94c12d6e9d940d564d301",
+      "files": {
+        "BUILD.json": "668e90c859040a9a5d7d640cc80e66f1a9dacaf99399ab5a2ec2cfc373fa9be2",
+        "LICENSE": "f566cfc74461676075d1ee32904576bf15a76f280ceb78f9c5987b6a19db576d",
+        "THIRD_PARTY_NOTICES.txt": "8433b7120d627c98c6a3c5939157a21f032c6f83246e99a14e685568550b5198",
+        "docket": "30b61e7bfc5e26e15f5fe6fbabb7db34f6c6f98d43ccfd50799fbdebd2ab8b23",
+        "docket-mcp": "48145dfdff672e96ffefd69c322d26827c8e9f56f2a7d7c666fa028b1dc532fc"
+      },
+      "buildHost": "darwin/arm64",
+      "crossCompiled": true,
+      "smoke": {
+        "level": "deep",
+        "version": "0.6.3",
+        "platform": "linux",
+        "arch": "arm64",
+        "runtimePath": "Git and standalone executables only",
+        "checks": [
+          "CLI/MCP versions",
+          "dual-agent initialization",
+          "task create/ready/index",
+          "embedded browser assets",
+          "MCP ready tool",
+          "source-only watch diagnostic",
+          "historical/customized/stale upgrades"
+        ]
+      },
+      "qualification": "Exact published archives qualified after publication for tap preparation",
+      "qualificationHost": {
+        "platform": "linux",
+        "arch": "arm64",
+        "osRelease": "6.12.76-linuxkit",
+        "osVersion": "6.12.76-linuxkit",
+        "distribution": "Ubuntu 24.04.5 LTS",
+        "hardwareArch": "arm64",
+        "execution": "docker-native"
+      },
+      "qualifiedAt": "2026-10-02T00:23:55.893Z",
+      "publishedReceiptSha256": "468d9a85e55cd40447ccd35c27833b55487d9b9069abeec0fa804f2d463d2292",
+      "qualificationHarnessSha256": "a3b79c0bb0fc6b3c82e86ac71ef66506cc1606320e9e1afe02ef4be0b6effe1e"
+    },
+    "linux-x64": {
+      "schema": 1,
+      "status": "READY",
+      "version": "0.6.3",
+      "target": "linux-x64",
+      "bunVersion": "1.4.2",
+      "source": {
+        "kind": "public-export",
+        "commit": "bd7bf94a7f9245ccf1bf10d5ca29c2d3d1ee5828",
+        "exportSha256": "88eea88283cb21d7e8c5be662b9a463ff6068b90ce68767d9501a900514e2367"
+      },
+      "archive": "gitdocket-0.6.3-linux-x64.tar.gz",
+      "sha256": "2872f378dac1f75ecb0c93cc3bc0a293f3d354a5eee3f5ebaebdbd8189bfc66e",
+      "files": {
+        "BUILD.json": "ca3e0093158ba539e2cf23ad663570795a230fa6e8de4da066b118cd24a7462f",
+        "LICENSE": "f566cfc74461676075d1ee32904576bf15a76f280ceb78f9c5987b6a19db576d",
+        "THIRD_PARTY_NOTICES.txt": "8433b7120d627c98c6a3c5939157a21f032c6f83246e99a14e685568550b5198",
+        "docket": "0a8def456bb921e49747038b6f25cf18e42b2a04d0f894ef8650843960fb6a14",
+        "docket-mcp": "1d0bd4ba18337505c33ff9213fb0e0fb127a62e24189d298406ca409687d6f17"
+      },
+      "buildHost": "darwin/arm64",
+      "crossCompiled": true,
+      "smoke": {
+        "level": "basic",
+        "version": "0.6.3",
+        "platform": "linux",
+        "arch": "x64",
+        "runtimePath": "Git and standalone executables only",
+        "checks": [
+          "CLI/MCP versions",
+          "dual-agent initialization",
+          "task create/ready/index",
+          "embedded browser assets",
+          "MCP ready tool"
+        ]
+      },
+      "qualification": "Exact published archives qualified after publication for tap preparation",
+      "qualificationHost": {
+        "platform": "linux",
+        "arch": "x64",
+        "osRelease": "6.12.76-linuxkit",
+        "osVersion": "6.12.76-linuxkit",
+        "distribution": "Ubuntu 24.04.5 LTS",
+        "hardwareArch": "arm64",
+        "execution": "docker-emulated"
+      },
+      "qualifiedAt": "2026-10-02T00:25:36.225Z",
+      "publishedReceiptSha256": "6955f46328256ddc8d3f4d83fccfde66826b6d94b2dbe7e24ed634b30c877b23",
+      "qualificationHarnessSha256": "a3b79c0bb0fc6b3c82e86ac71ef66506cc1606320e9e1afe02ef4be0b6effe1e"
+    }
+  },
+  "homebrewInstallationChecks": "SKIPPED_AT_OWNER_REQUEST"
 }
